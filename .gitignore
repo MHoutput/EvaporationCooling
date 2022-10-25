@@ -1,0 +1,11 @@
+# Ignore the PyCharm-specific .idea/ folder
+.idea/
+
+# Ignore the build/ folder created by PyInstaller
+build/
+
+# Ignore the executable file, the user should build this executable themselves by running PyInstaller
+*.exe
+
+# Ignore the GIMP files in the images directory
+images/*.xcf
