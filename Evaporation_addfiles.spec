@@ -2,7 +2,7 @@
 
 block_cipher = None
 
-added_files = [('images\\*.png','images'), ('icon\\Sphere.ico','icon')]
+added_files = [('images\\*.png','images'), ('icon\\Sphere.ico','icon'), ('images/*.png','images'), ('icon/Sphere.ico','icon')]
 
 
 a = Analysis(
